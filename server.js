@@ -15,7 +15,7 @@ const allowedOrigins = [
   'http://localhost:5500',
   'http://127.0.0.1:5500',
   'http://localhost:3000',
-  'https://marvelous-nougat-cc50e1.netlify.app/login.html'   // ⚠️ REPLACE WITH YOUR ACTUAL NETLIFY URL
+  'https://marvelous-nougat-cc50e1.netlify.app'   // ⚠️ REPLACE WITH YOUR ACTUAL NETLIFY URL
 ];
 
 app.use(cors({
