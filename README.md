@@ -1,1 +1,0 @@
-﻿# Gamified_backend_app
